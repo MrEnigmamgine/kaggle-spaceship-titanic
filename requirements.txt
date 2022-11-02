@@ -1,0 +1,22 @@
+# Jupyter Notebooks
+ipython
+jupyter
+
+# Common DS modules
+numpy
+pandas
+
+# ML modules
+sklearn
+
+# Visulaization modules
+matplotlib
+seaborn
+plotly
+nbformat # required by plotly
+
+# Utility modules
+kaggle
+
+# Data source modules
+pydataset
