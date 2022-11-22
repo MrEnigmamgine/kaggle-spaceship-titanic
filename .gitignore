@@ -6,6 +6,8 @@ __pycache__
 *.csv
 *.zip
 scratch*.ipynb
+*.json
+*.html
 
 
 ## Github stuff
